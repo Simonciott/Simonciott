@@ -10,6 +10,7 @@ gantt
         Discord.js API interaction: jsd3, 2022-05, 1M
         Discord.js API interaction: jsd4, 2023-02, 3w
         Discord.js API interaction: jsd5, 2023-10-15, 1w
+        Octokit.js API interaction: ok1, 2024-06-01, 1M
     section Python
         Casual programs: 2020-08, 1M
         Pygame programs: pg1, 2021-01, until clp
@@ -36,7 +37,7 @@ gantt
         Martini: 2024-08-01, 2024-08-09
         PissyEnemies: 2024-08-24, 2024-09-06
     section Java
-        Tomodachi Life food attribute editor: 2025-11-05, 2025-11-08
+        Tomodachi Life food attribute editor: 2025-11-05, 3d
         Tomodachi Life clothes attribute editor: 2025-11-13, 1d
     section Rust
         Learning: active, 2026-02-06, 2026-02-28
