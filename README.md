@@ -11,6 +11,7 @@ gantt
         Discord.js API interaction: jsd4, 2023-02, 3w
         Discord.js API interaction: jsd5, 2023-10-15, 1w
         Octokit.js API interaction: ok1, 2024-06-01, 1M
+        Discord.js API interaction with SQL: jsd6, 2026-03-07, 2026-03-19
     section Python
         Casual programs: 2020-08, 1M
         Pygame programs: pg1, 2021-01, until clp
@@ -37,14 +38,14 @@ gantt
         Martini: 2024-08-01, 2024-08-09
         PissyEnemies: 2024-08-24, 2024-09-06
     section Java
-        Tomodachi Life food attribute editor: 2025-11-05, 3d
-        Tomodachi Life clothes attribute editor: 2025-11-13, 1d
+        Tomodachi Life attribute editor programs: 2025-11-05, 5d
     section Rust
-        Learning: active, 2026-02-06, 2026-02-28
-        Pragmatic: active, 2026-02-13, 2026-02-28
+        Learning: active, 2026-02-06, 2026-03-24
+        Pragmatic: active, 2026-02-13, 2026-03-24
 ```
+<p align="center">(This is not a complete teardown of my experiences but a superficial explaination of them)</p>
 
-<span align="center">Coding is my greatest passion alongside other minor hobbies, having a total of almost 6 years of experience with coding in general.</span>
+<p align="center">Coding is my greatest passion alongside other minor hobbies, having a total of almost 6 years of experience with coding in general.</p>
 
 
 ## What I mainly code:
