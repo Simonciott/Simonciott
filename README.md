@@ -40,8 +40,10 @@ gantt
     section Java
         Tomodachi Life attribute editor programs: 2025-11-05, 5d
     section Rust
-        Learning: active, 2026-02-06, 2026-03-24
-        Pragmatic: active, 2026-02-13, 2026-03-24
+        Learning: rsl, 2026-02-06, 2026-03-09
+        Pragmatic: rsp, 2026-02-13, 2026-03-09
+        Learning: active, rsl2, 2026-04-01, 2026-04-01
+        Pragmatic: active, rsp2, 2026-04-01, 2026-04-01
 ```
 <p align="center">(This is not a complete teardown of my experiences but a superficial explaination of them)</p>
 
