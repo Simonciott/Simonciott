@@ -17,9 +17,13 @@ gantt
         Pygame programs: pg1, 2021-01, until clp
         Pygame programs: pg2, 2021-04, 4M
         Encryption algorithms: pea1, 2022-08, 2w
+        Godot Engine learning: gel, 2023-01-1, 1w
+        Godot Engine game: ge1, 2023-05-24, 2w
         Encryption algorithms: pea2, 2023-09, 2M
         File management assistance: fma1, 2023-10-30, 1M
+        Godot Engine game: ge2, 2024-03-26, 1w
         File management assistance: fma2, 2024-10-15, 4d
+        Godot Engine game: ge3, 2025-06-24, 2025-08-29
     section C++
         Learning programs: clp, 2021-02, 1M
         Computational programs: cp, after clp, 3M
@@ -42,8 +46,8 @@ gantt
     section Rust
         Learning: rsl, 2026-02-06, 2026-03-09
         Pragmatic: rsp, 2026-02-13, 2026-03-09
-        Learning: active, rsl2, 2026-04-01, 2026-04-01
-        Pragmatic: active, rsp2, 2026-04-01, 2026-04-01
+        Learning: active, rsl2, 2026-04-01, 2026-04-22
+        Pragmatic: active, rsp2, 2026-04-01, 2026-04-22
 ```
 <p align="center">(This is not a complete teardown of my experiences but a superficial explaination of them)</p>
 
