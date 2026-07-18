@@ -45,9 +45,11 @@ gantt
         Tomodachi Life attribute editor programs: 2025-11-05, 5d
     section Rust
         Learning: rsl, 2026-02-06, 2026-03-09
-        Pragmatic: rsp, 2026-02-13, 2026-03-09
-        Learning: active, rsl2, 2026-04-01, 2026-04-22
-        Pragmatic: active, rsp2, 2026-04-01, 2026-04-22
+        Dynasta: rsp, 2026-02-13, 2026-03-09
+        Learning: rsl2, 2026-04-01, 2026-04-22
+        Dynasta: rsp2, 2026-04-01, 2026-04-22
+        Dynasta: rsp3, 2026-05-19, 2026-05-24
+        Dynasta: active, rsp4, 2026-07-03, 2026-07-18
 ```
 <p align="center">(This is not a complete teardown of my experiences but a superficial explaination of them)</p>
 
@@ -60,7 +62,7 @@ gantt
   - Modifications and patches for videogames (Mods)
 
 ## Ongoing and future projects:
-  - Pragmatic. A coding language to turn dinamically defined keywords into a static, hardcoded file.
+  - Dynasta. A coding language to turn dinamically defined keywords into a static, hardcoded file.
   - Hollywood Engine. My idea of a perfect game engine, made in SDL.
 
 <h4 align="center">I plan on making many more projects in the future.</h4>
