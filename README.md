@@ -36,6 +36,14 @@ gantt
         Assembly language liking: milestone, 2025-01-20, 0d
         Gigibox: 2025-01-06, 2025-03-15
         "Hollywood" game engine: 2025-08-21, 2025-09-21
+    section Game Maker
+        Game Maker 5 game mod: hwj, 2023-03-20, 2023-05-14
+        Game Maker 5 game mod: hwj2, 2024-04-15, 2024-05-25
+        Game Maker 5 game mod: hwj3, 2025-11-30, 2025-12-15
+        Game Maker 5 game mod: hwjm, 2025-12-31, 2026-01-26
+        Game Maker 5 game: gm5v, 2025-08-31, 2025-09-03
+        Game Maker 5 game: gm5c, 2026-06-15, 2026-06-24
+        Game Maker 1.4 game: gm14v, 2026-08-01, 2026-09-04
     section C#
         MelonLoader learning mod: 2024-01-23, 2024-02-10
         BepInEx mod: 2024-06, 2w
@@ -45,7 +53,9 @@ gantt
         Tomodachi Life attribute editor programs: 2025-11-05, 5d
     section Rust
         Learning: rsl, 2026-02-06, 2026-04-22
-        Dynasta: active, rsp, 2026-02-13, 2026-09-13
+        Dynasta: rsp, 2026-02-13, 2026-10-09
+    section Zig
+        Learning: active, zigl, 2026-09-23, 2026-10-09
 ```
 <p align="center">(This is not a complete teardown of my experiences but a superficial explaination of them)</p>
 
@@ -57,7 +67,11 @@ gantt
   - Programs to ease tasks
   - Modifications and patches for videogames (Mods)
 
+## Past projects
+  - Gigibox. A fantasy console capable of interpreting pseudo assembly language.
+  - Dynasta. A coding language to turn patterns and iterations into a static file.
+
 ## Ongoing and future projects:
-  - Dynasta. A coding language to turn dinamically defined keywords into a static, hardcoded file.
+  - "Hollywood" game engine. My attempt at making a game engine.
 
 <h4 align="center">I plan on making many more projects in the future.</h4>
